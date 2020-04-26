@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<config>
+    <serverName>localhost</serverName>
+    <userName>root</userName>
+    <password>mysql</password>
+    <dbName>ProjectFinal</dbName>
+</config>
